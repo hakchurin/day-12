@@ -1,0 +1,53 @@
+
+.banner {
+  height: 200px;
+  background: url("assets/banner.jpg");
+ }
+
+body{
+  background-color: #EEEEEE;
+}
+
+#footer{
+  background: #4B484F;
+height: 150px;
+margin: auto;
+text-align: center;
+    padding-top: 3rem;
+}
+
+.number{
+  text-align: center;
+  padding-top: 2rem;
+}
+
+#answer1{
+  text-align: center;
+  padding-top: 2rem;
+
+}
+#answer2{
+  text-align: center;
+  padding-top: 2rem;
+
+}
+#answer3{
+  text-align: center;
+  padding-top: 2rem;
+
+}
+#answer4{
+  text-align: center;
+  padding-top: 2rem;
+
+}
+#answer5{
+  text-align: center;
+  padding-top: 2rem;
+
+}
+#answer6{
+  text-align: center;
+  padding-top: 2rem;
+
+}
